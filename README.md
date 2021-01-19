@@ -2,7 +2,7 @@
 
 What does repository involve?
 
-- Reading and pairing YOLO inputs as image-label pairs
+- Reading and pairing YOLO inputs as image objects-label pairs
 
 - Denormalize YOLO cordinates for active leraning training
 
