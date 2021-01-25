@@ -14,4 +14,7 @@ What does repository involve?
 
 - Normalize the array values for better Accuracy
 
-Accuracy: 0.34 for 48 beer classes.
+Current Accuracy: 0.4428 for 48 beer classes.
+
+
+![indir (3)](https://user-images.githubusercontent.com/47353633/105707665-58e81c00-5f24-11eb-89c0-76261b38d779.png)
