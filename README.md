@@ -14,6 +14,8 @@ What does repository involve?
 
 - Normalize the array values for better Accuracy
 
+
+This is an ongoing project. Stream-based pooling is used. After 800 query-epoch the accuracy is converged at => 
 Current Accuracy: 0.4428 for 48 beer classes.
 
 
