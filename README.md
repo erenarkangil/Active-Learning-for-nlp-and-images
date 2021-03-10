@@ -23,3 +23,5 @@ Current Accuracy: 0.4428 for 48 beer classes.
 
 
 ![indir (3)](https://user-images.githubusercontent.com/47353633/105707665-58e81c00-5f24-11eb-89c0-76261b38d779.png)
+
+![indir (5)](https://user-images.githubusercontent.com/47353633/110628998-becaf300-81b4-11eb-8e4a-08a2167ffdb2.png)
