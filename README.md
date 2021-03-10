@@ -18,5 +18,8 @@ What does repository involve?
 This is an ongoing project. Stream-based pooling is used. After 800 query-epoch the accuracy is converged at => 
 Current Accuracy: 0.4428 for 48 beer classes.
 
+- Updates !! I added keras network with bayesian optimizer. 
+- Please find the labeler for nlp dataset. It uses logistic regression, include comprasion of entropy, uncertainity and random sampling with pool-based and stream-based apporaches.
+
 
 ![indir (3)](https://user-images.githubusercontent.com/47353633/105707665-58e81c00-5f24-11eb-89c0-76261b38d779.png)
